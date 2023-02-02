@@ -33,5 +33,3 @@ $response = curl_exec($curl);
 curl_close($curl);
 
 ?>
-
-"<script>console.log('{$response}' );</script>"
